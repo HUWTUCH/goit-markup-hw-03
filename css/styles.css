@@ -283,9 +283,7 @@ img {
 /* Footer */
 .footer {
     background-color: #2e2f42;
-    padding-top: 100px;
-    padding-left: 156px;
-    padding-bottom: 100px;
+    padding: 100px 0;
 }
 
 .footer-logo {
